@@ -2,7 +2,7 @@
 
 <ul>
 <li> 
-    <div id="openmenu">+</div>
+    <div id="openmenu"></div>
 
 <ul>
 
@@ -33,6 +33,34 @@ Registration
 <li><a href="memberRegistration.php">Member Registration </a> </li>
 </ul>        
 </li>
+
+
+<li>
+Teams
+<ul class="dropdown">
+<li><a href="externalAffair.php">Advisory Team</a></li>
+<li><a href="externalAffair.php">External Affairs Team</a></li>
+<li><a href="finance.php">Finance</a></li>
+<li><a href="gmsvisiting.php">Visiting Team</a></li>
+<li><a href="scholarship.php">Scholarship Team</a></li>
+<li><a href="seminar.php">Seminar Team</a></li>
+<li><a href="media.php">Media Team</a></li>
+<li><a href="externalAffair">External Affairs</a></li>
+<li><a href="externalAffair">External Affairs</a></li>
+
+</ul>
+
+</li>
+
+<li>
+Donation
+</li>
+
+<li>
+Downloads
+</li>
+
+
 
 
 <li>
